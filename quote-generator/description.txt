@@ -1,0 +1,8 @@
+using async fetch request to rest api for getting the quotes. It also uses proxi API to avoid dreaded thread error
+
+Background: Vectored pattern hero background - https://heropatterns.com/
+Font Awesome Icons
+Custom Google Fonts - https://fonts.google.com/ (montserrat)
+Loader
+Opens Twitter with the Current quote
+Mobile responsive
